@@ -27,6 +27,24 @@ Users can create and manage their own story entries through a clean and intuitiv
 - 🤖 Google Gemini API (for summaries and embeddings)
 
 
+## Screenshots
+
+### Home Page
+
+![](./screenshots/home.png)
+
+### Story Page
+
+![](./screenshots/story.png)
+
+### Add Story
+
+![](./screenshots/add_story.png)
+
+### Search Stories
+
+![](./screenshots/search.png)
+
 ## 🧪 Running Locally
 
 ```bash
