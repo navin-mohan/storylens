@@ -15,12 +15,11 @@ Users can create and manage their own story entries through a clean and intuitiv
 ### Frontend
 - ⚛️ React.js (SPA with hooks and functional components)
 - 🎨 HTML5, CSS3, JavaScript (ES6+)
-- 🧪 Testing with Jest
 
 ### Backend
 - 🐍 Python 3.11
 - 🧰 Django + Django Rest Framework
-- 🧪 Pytest for backend unit testing
+- 🧪 Django Test for backend unit testing
 - 🛢️ PostgreSQL (pgvector extension is used for vector embedding search)
 - 📦 Custom RESTful API endpoints for AI integration and story management
 

@@ -23,11 +23,5 @@ class StorySerializer(serializers.ModelSerializer):
             },
             'created_at': {
                 'read_only' : True
-            },
-            'summary': {
-                'read_only' : True
-            },
-            'embedding': {
-                'read_only' : True 
             }
         }
