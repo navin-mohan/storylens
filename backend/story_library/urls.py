@@ -10,5 +10,5 @@ router.register(r'stories', StoryViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
-    path('query', SearchQueryAPI.as_view(), name="query")
+    path('query/', SearchQueryAPI.as_view(), name="query")
 ]
